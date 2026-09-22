@@ -114,3 +114,11 @@ PC を落とせば止まります。
 ## 技術
 
 Python 3.12+ / discord.py / aiosqlite / pydantic / feedparser / aiohttp / matplotlib / pytest / pyright
+
+---
+
+## ご依頼
+
+Discord bot の制作を承っています。ご相談・お見積りはココナラからどうぞ。
+
+**https://coconala.com/services/4399424**
